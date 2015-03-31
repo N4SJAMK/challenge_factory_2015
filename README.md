@@ -1,6 +1,6 @@
 # Challenge Factory 2015
 
-![](https://openclipart.org/image/400px/svg_to_png/182910/Monkey%20Killer.png)
+
 
 ## Introduction Day 8.4.2015
 
@@ -25,4 +25,9 @@ Marko.rintamaki@jamk.fi & Jouni.huotari@jamk.fi
   * [Challenge Factory official pages](http://n4sjamk.github.io/challenge-factory)
   * [Tekes](http://tekes.fi)
   * [Digile N4S](http://n4s.fi)
+  * 
+  
+# Challenge yourself in Challenge factory
+
+![](https://openclipart.org/image/400px/svg_to_png/182910/Monkey%20Killer.png)
 
