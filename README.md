@@ -27,7 +27,7 @@ Marko.rintamaki@jamk.fi & Jouni.huotari@jamk.fi
   * [Digile N4S](http://n4s.fi)
   * 
   
-# Challenge yourself in Challenge factory
+# Challenge yourself in Challenge factory !!
 
 ![](https://openclipart.org/image/400px/svg_to_png/182910/Monkey%20Killer.png)
 
