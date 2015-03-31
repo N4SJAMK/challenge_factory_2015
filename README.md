@@ -13,10 +13,8 @@ Time 9:30 - 10:30 at D505
 
 # Links
 
-     * [N4S@JAMK Home pages](http://n4sjamk.github.io)
-     * [Challenge Factory official pages](http://n4sjamk.github.io/challenge-factory)
-     * [Suomeksi](https://www.dropbox.com/s/xqiquyf0k7ayn45/N4SJAMK-intro.pdf?dl=0)
-     * [In English](https://www.dropbox.com/s/44fa27dcia34w7z/N4SJAMK-intro%20-in-english.pdf?dl=0)
-  
-  
-  
+  * [N4S@JAMK Home pages](http://n4sjamk.github.io)
+  * [Challenge Factory official pages](http://n4sjamk.github.io/challenge-factory)
+  * [Suomeksi](https://www.dropbox.com/s/xqiquyf0k7ayn45/N4SJAMK-intro.pdf?dl=0)
+  * [In English](https://www.dropbox.com/s/44fa27dcia34w7z/N4SJAMK-intro%20-in-english.pdf?dl=0)
+
