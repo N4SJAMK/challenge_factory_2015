@@ -8,6 +8,8 @@ Time 9:30 - 10:30 at D505
 
 #Agenda
 
+![](http://n4sjamk.github.io/img/n4sjamk_logo_notext.svg)
+
   * N4S
   * N4S@JAMK
   * Challenge Factory
