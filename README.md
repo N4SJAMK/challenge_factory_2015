@@ -1,6 +1,6 @@
 # Challenge Factory 2015
 
-![](https://openclipart.org/image/512px/svg_to_png/182910/Monkey%20Killer.png)
+![](https://openclipart.org/image/400px/svg_to_png/182910/Monkey%20Killer.png)
 
 ## Introduction Day 8.4.2015
 
