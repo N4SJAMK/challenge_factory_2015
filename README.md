@@ -23,4 +23,6 @@ Marko.rintamaki@jamk.fi & Jouni.huotari@jamk.fi
 
   * [N4S@JAMK Home pages](http://n4sjamk.github.io)
   * [Challenge Factory official pages](http://n4sjamk.github.io/challenge-factory)
+  * [Tekes](http://tekes.fi)
+  * [Digile N4S](http://n4s.fi)
 
