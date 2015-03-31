@@ -1,6 +1,6 @@
 # Challenge Factory 2015
 
-
+![](http://n4sjamk.github.io/img/challenge_factory_wheel.png)
 
 ## Introduction Day 8.4.2015
 
