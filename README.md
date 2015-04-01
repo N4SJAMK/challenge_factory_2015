@@ -14,6 +14,11 @@ Time 9:30 - 10:30 at D505
   * [Opiskelijat osana tutkimushanketta?](https://www.dropbox.com/s/xqiquyf0k7ayn45/N4SJAMK-intro.pdf?dl=0)
   * [Same in English](https://www.dropbox.com/s/44fa27dcia34w7z/N4SJAMK-intro%20-in-english.pdf?dl=0)
   * Focus areas for summer 2015
+  * 
+  
+Questions? 
+
+  * No Money no honey? Yes there is only ECT:s 
 
 Contact:
 
