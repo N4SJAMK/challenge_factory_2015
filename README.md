@@ -18,7 +18,8 @@ Time 9:30 - 10:30 at D505
   
 Questions? 
 
-  * No Money no honey? Yes there is only ECT:s 
+  * No Money no honey? 
+  * Do I get any ECTs ? Yes of course!
 
 Contact:
 
