@@ -4,7 +4,8 @@
 
 ## Introduction Day 8.4.2015
 
-Time 9:30 - 10:30 at D505 
+Location: ICT Dynamo, Piippukatu 2, Class D505 "Koivuluokka"
+Time:     9:30 - 10:30 
 
 #Agenda
 
