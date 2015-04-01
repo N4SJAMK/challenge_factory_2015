@@ -2,10 +2,11 @@
 
 ![](http://n4sjamk.github.io/img/challenge_factory_wheel.png)
 
-## Introduction Day 8.4.2015
+## Introduction & Reqruite Day 
 
-Location: ICT Dynamo, Piippukatu 2, Class D505 "Koivuluokka"
-Time:     9:30 - 10:30 
+  * Wednesday 8.4.2015
+  * Location: ICT Dynamo, Piippukatu 2, Class D505 "Koivuluokka"
+  * Time:     9:30 - 10:30 
 
 #Agenda
 
@@ -25,6 +26,20 @@ Questions?
 Contact:
 
 Marko.rintamaki@jamk.fi & Jouni.huotari@jamk.fi
+
+Simple Process: 
+  * If you are interest send mail to official contacts. 
+  * N4S@JAMK-team will arrange interview session 
+  * We will select 10-15 people for Challenge Factory 2015
+  *
+
+Current Challenges:
+
+  * How to get service development running in the (Digia, Q-Factory, N4S@JAMK)
+  * Test Automation in the practice (fMBT, Intel)
+  * Process development for Corolla (N4S@JAMK)
+  * Other companies... 
+
 
 # Links
 
