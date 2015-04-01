@@ -32,7 +32,7 @@ Marko.rintamaki@jamk.fi & Jouni.huotari@jamk.fi
   * [Challenge Factory official pages](http://n4sjamk.github.io/challenge-factory)
   * [Tekes](http://tekes.fi)
   * [Digile N4S](http://n4s.fi)
-  * 
+  * [Työharjoittelusta](http://studyguide.jamk.fi/fi/opinto-opas-amk/Opiskelu/Harjoittelu/)
   
 # Challenge yourself in Challenge factory !!
 
