@@ -20,8 +20,10 @@
   
 Questions? 
 
-  * No Money no honey? 
-  * Do I get any ECTs ? Yes of course!
+  * No Money no honey? A: Yes there is no money offered, but a great team and lot of learning! 
+  * Do I get any ECTs ? A: Yes of course! This is a traineeship, but it's not open for everyone
+  * How to get in? A: Send a mail to contact persons below, N4S@JAMK-team will invite you to interview, Team will deside who will be joining us for a summer period!
+
 
 Contact:
 
